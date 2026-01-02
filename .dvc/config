@@ -1,0 +1,4 @@
+[core]
+    remote = esasodata
+['remote "esasodata"']
+    url = ../ssh:\datarepo@172.16.128.49:/home/datarepo/Scrivania/esaso_repo
